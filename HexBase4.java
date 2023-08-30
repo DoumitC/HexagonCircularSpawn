@@ -6,7 +6,7 @@ package com.mycompany.hexagonproject3;
 
 /**
  *
- * @author doumitc1
+ * @author Chady Doumit
  */
 
 import java.awt.Dimension;
